@@ -1,0 +1,25 @@
+for 64 bit compile first run msys mgw 64
+
+then goto dll src directory
+
+then run this command :
+
+clang -shared *.c -o WhatsDll.dll
+
+
+C:\DLLSource\NewDllSrc
+
+
+for 32 bit compile just run msys mgw 32
+
+
+
+its ok task end
+
+
+what is the command for the 32 bits? I lost it
+
+command for 32 and 64 is same just run msys 32 for 32 bit compile and msys 64 for 64 bit compile
+
+ok. got it. thanks
+
